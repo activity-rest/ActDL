@@ -1,2 +1,5 @@
-/bin/
+bin/
 target/
+src-gen/
+xtend-gen/
+.antlr-generator-*-patch.jar
