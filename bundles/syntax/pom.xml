@@ -13,6 +13,7 @@
 	</parent>
 
 	<modules>
-		<module>br.usp.ffclrp.dcm.lssb.restaurant.analysisactivitydescription.textualdsl.parent</module>
+	   <module>br.com.cawal.actdl/br.com.cawal.actdl.parent/</module>
+<!-- 		<module>br.usp.ffclrp.dcm.lssb.restaurant.analysisactivitydescription.textualdsl.parent</module> -->
 	</modules>
 </project>

@@ -5,7 +5,6 @@ package br.usp.ffclrp.dcm.lssb.restaurant.analysisactivitydescription.textualdsl
 
 import br.usp.ffclrp.dcm.lssb.restaurant.analysisactivitydescription.textualdsl.AnalysisActivityDSLRuntimeModule;
 import br.usp.ffclrp.dcm.lssb.restaurant.analysisactivitydescription.textualdsl.AnalysisActivityDSLStandaloneSetup;
-import br.usp.ffclrp.dcm.lssb.restaurant.analysisactivitydescription.textualdsl.ide.AnalysisActivityDSLIdeModule;
 import com.google.inject.Guice;
 import com.google.inject.Injector;
 import org.eclipse.xtext.util.Modules2;

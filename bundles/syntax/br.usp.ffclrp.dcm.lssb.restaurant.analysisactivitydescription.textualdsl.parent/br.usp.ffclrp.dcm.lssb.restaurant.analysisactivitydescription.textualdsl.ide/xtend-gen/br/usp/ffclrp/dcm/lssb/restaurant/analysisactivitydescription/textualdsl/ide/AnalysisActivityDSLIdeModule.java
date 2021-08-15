@@ -3,8 +3,6 @@
  */
 package br.usp.ffclrp.dcm.lssb.restaurant.analysisactivitydescription.textualdsl.ide;
 
-import br.usp.ffclrp.dcm.lssb.restaurant.analysisactivitydescription.textualdsl.ide.AbstractAnalysisActivityDSLIdeModule;
-
 /**
  * Use this class to register ide components.
  */

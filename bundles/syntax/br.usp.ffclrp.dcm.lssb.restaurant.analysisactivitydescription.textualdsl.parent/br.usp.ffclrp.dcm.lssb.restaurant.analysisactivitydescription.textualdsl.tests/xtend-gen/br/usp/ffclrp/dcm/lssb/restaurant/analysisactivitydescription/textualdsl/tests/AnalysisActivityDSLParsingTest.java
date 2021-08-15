@@ -4,7 +4,6 @@
 package br.usp.ffclrp.dcm.lssb.restaurant.analysisactivitydescription.textualdsl.tests;
 
 import br.usp.ffclrp.dcm.lssb.restaurant.analysisactivitydescription.Activity;
-import br.usp.ffclrp.dcm.lssb.restaurant.analysisactivitydescription.textualdsl.tests.AnalysisActivityDSLInjectorProvider;
 import com.google.inject.Inject;
 import org.eclipse.emf.common.util.EList;
 import org.eclipse.emf.ecore.resource.Resource;
